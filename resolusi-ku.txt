@@ -2,3 +2,4 @@
 2. Makan Kerupuk
 3. Membuat aplikasi kudanil dan sapi
 4. Membuat channel youtube
+5. Makan sapi
