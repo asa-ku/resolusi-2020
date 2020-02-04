@@ -4,5 +4,4 @@ Rencanaku
 -ReactJS
 -Django
 -Game Dev
--AI
--ML
+-Python3
